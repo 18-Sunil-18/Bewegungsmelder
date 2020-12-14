@@ -7,7 +7,7 @@ Lerninhalt: Spannung eines Bewegungsmelder (HC-SR501) auslesen und für eine Aus
 
 Erklärung zum Bewegungsmelder
 Der Bewegungsmelder HC-SR501, auch PIR Sensor genannt, ist sehr einfach konstruiert. Sobald er eine Bewegung detektiert, gibt er auf einem Pin eine Spannung von 5 Volt aus. Diese muss nur ausgelesen und vom Mikrocontroller verarbeitet werden.
-Die Dauer des Ausgangssignals (linker Regler) und die Sensibilität (rechter Regler) kann über Drehregler eingestellt werden (Bild rechts).
+Die Dauer des Ausgangssignals (linker Regler) und die Sensibilität (rechter Regler) kann über Drehregler eingestellt werden. (Weitere Infos unter: https://funduino.de/nr-8-bewegungsmelder#Erklaerung_zum_Bewegungsmelder)
 
 
 1) Jumper ist wie auf dem Bild ganz außen: Das Ausgangssignal wird nachdem eine Bewegung detektiert wurde für eine gewisse Zeit aufrecht erhalten und danach auf jeden Fall wieder deaktiviert, auch wenn im Aktionsbereich des Bewegungsmelders noch eine Bewegung detektiert werden könnte. Nach einer gewissen Zeit wird das Ausgangssignal erneut erzeugt.
