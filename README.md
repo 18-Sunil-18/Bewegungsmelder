@@ -16,7 +16,4 @@ Die Dauer des Ausgangssignals (linker Regler) und die Sensibilität (rechter Reg
 
 Die Kunststofflinse ist nur leicht gesteckt. Wenn man sie abhebt kann man den Infrarotdetektor erkennen und man sieht anhand der Beschriftung unter der Linse, wie der Sensor verkabelt werden muss: GND ( – ), OUT (Ausgang des Signals), VCC ( + ).
 
-Auf dem lnken Bild sieht man am oberen Rand die Bezeichnungen der Kontakte.
-
-
 Hinweis: Die neuste Version des Bewegungsmelder verzichtet auf die Jumperbrücke. Der Sensor kann über die Potentiometer direkt kalibriert werden.
